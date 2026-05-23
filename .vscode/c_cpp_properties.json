@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/raylib/w64devkit/include",
+        "${env:USERPROFILE}/raylib/include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "browse": {
+        "path": [
+          "${workspaceFolder}/**",
+          "C:/raylib/w64devkit/include",
+          "${env:USERPROFILE}/raylib/include"
+        ]
+      }
+    }
+  ],
+  "version": 4
+}
